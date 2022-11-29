@@ -1,0 +1,8 @@
+{
+    "name": "Garazbolg.action-framework.Tests",
+    "references": [
+        "Garazbolg.action-framework"
+    ],
+    "includePlateforms": [],
+    "excludePatforms":[]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Garazbolg.action-framework.Editor",
+    "references": [
+        "Garazbolg.action-framework"
+    ],
+    "includePlateforms": [
+        "Editor"
+    ]
+}

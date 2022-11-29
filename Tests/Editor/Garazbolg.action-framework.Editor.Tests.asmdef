@@ -1,0 +1,11 @@
+{
+    "name": "Garazbolg.action-framework.Tests.Editor",
+    "references": [
+        "Garazbolg.action-framework",
+        "Garazbolg.action-framework.Editor"
+    ],
+    "includePlateforms": [
+        "Editor"
+    ],
+    "excludePatforms":[]
+}

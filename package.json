@@ -1,0 +1,24 @@
+{
+    "name": "com.garazbolg.action-framework",
+    "version": "0.1.0",
+    "displayName": "action-framework",
+    "description": "action-framework",
+    "dependencies": {
+    },
+    "keywords": [
+	"unity package",
+	"action-framework"
+    ],
+    "author": {
+      "name": "Garazbolg",
+      "email": "garazbolg@gmail.com",
+      "url": "https://garazbolg.itch.io/"
+    },
+    "samples": [
+        {
+          "displayName": "sample-action-framework",
+          "description": "action-framework Sample project",
+          "path": "Samples/sample-action-framework"
+        }
+      ]
+  }
